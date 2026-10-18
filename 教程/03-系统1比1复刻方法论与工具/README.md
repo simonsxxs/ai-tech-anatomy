@@ -56,7 +56,7 @@
 
 ## 三、工具介绍：「系统 1:1 复刻」skill
 
-上面的方法论不是停留在文档里，它已经做成了一个开源的 Agent Skill（智能体技能包）：**system-1to1-replica**，配合 ZCode 等 Agent 环境使用，Agent 读取 SKILL.md 后会按六阶段流程自动推进整个复刻项目。
+上面的方法论不是停留在文档里，它已经做成了一个开源的 Agent Skill（智能体技能包）：**reverse-system-replica-engineer**，配合 ZCode 等 Agent 环境使用，Agent 读取 SKILL.md 后会按六阶段流程自动推进整个复刻项目。
 
 ### 它能做什么
 
@@ -71,19 +71,19 @@
 不需要任何编译，clone 即用（依赖会自动装）：
 
 ```bash
-git clone https://github.com/simonsxxs/system-1to1-replica.git
-cd system-1to1-replica
+git clone https://github.com/simonsxxs/reverse-system-replica-engineer.git
+cd reverse-system-replica-engineer
 node scripts/preflight.mjs   # 环境自检 + 自动装依赖
 node scripts/validate.mjs    # 端到端自检，全绿即就绪
 ```
 
-之后把目录放进 Agent 的技能发现路径（如 `~/.agents/skills/system-1to1-replica/`），对 Agent 说"帮我复刻 XX 系统"即可触发完整流程。
+之后把目录放进 Agent 的技能发现路径（如 `~/.agents/skills/reverse-system-replica-engineer/`），对 Agent 说"帮我复刻 XX 系统"即可触发完整流程。
 
 ## 四、链接指引
 
 - **完整版（方法论 + 工具链）**
-  - GitHub：<https://github.com/simonsxxs/system-1to1-replica>
-  - Gitee 镜像：<https://gitee.com/simonsxx/system-1to1-replica>
+  - GitHub：<https://github.com/simonsxxs/reverse-system-replica-engineer>
+  - Gitee 镜像：<https://gitee.com/simonsxx/reverse-system-replica-engineer>
 - **SkillHub 科普版**：《系统对标复刻方法论与质量手册》——只讲方法论与质量闭环的纯知识版，不含工具链。可在 [skillhub.cn](https://skillhub.cn) 搜索技能名 `system-replica-playbook` 获取（上架审核通过后生效）。
 
 ---
