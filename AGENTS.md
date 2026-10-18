@@ -98,6 +98,7 @@
 | 报告 03 | 拆解报告/03-AI控制微信逆向解剖 | AI 是如何控制微信的 · 逆向解剖报告 | 6 |
 | 教程 01 | 教程/01-ChatGPT-MCP插件制作教程 | 内部系统接入 ChatGPT：MCP + OAuth 只读插件制作教程 | 7 |
 | 教程 02 | 教程/02-自动化招聘AI智能体拆解与复刻 | 拆解一款自动化招聘 AI 智能体（复刻教程） | 39 |
+| 教程 03 | 教程/03-系统1比1复刻方法论与工具 | 系统 1:1 复刻：方法论与工具（Markdown 文章，无 PDF） | — |
 | 技能 01 | （已迁至专属仓） | software-decard：软件去卡密自用版 Agent 技能（SKILL.md 加载即用，经白纸实测）——已迁至专属仓 [software-decard（GitHub）](https://github.com/simonsxxs/software-decard) / [Gitee](https://gitee.com/simonsxx/software-decard)，本仓仅保留介绍与链接指引 | — |
 
 > 接管后新增文档请同步更新本表；新增 README 内区块（不占用编号的介绍区块，如配套软件、未公开教程）时，在下文列表中登记一条，并与私有仓实际内容保持同步。
