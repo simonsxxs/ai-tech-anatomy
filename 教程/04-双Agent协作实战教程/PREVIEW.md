@@ -8,7 +8,7 @@
 
 ## 封面
 
-> 图解增强版：你只提需求，主 Agent 负责派工。Kimi K3.1 Pro、Codex、Claude 可作指挥层，DeepSeek、GLM/ZCode、Codex 等可作执行层。
+> 图解增强版：你只提需求，主 Agent 负责派工。Kimi K3.1 Pro、Codex、Claude 可作指挥层，DeepSeek、GLM/ZCode、Codex 等可作执行层，还可按能力和成本搭配。
 
 ![封面](pages/page-01.png)
 
