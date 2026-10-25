@@ -69,6 +69,7 @@
 - **署名**：README、每篇 PREVIEW 文末必须带署名块：
   > 作者：simon，一个不懂代码的 AI 极客
   > 微信交流群：`simonsxxs`
+  > 个人网站：https://simonsxx.com
   > GitHub：https://github.com/simonsxxs
   > Gitee：https://gitee.com/simonsxx
 - **免责声明**：内容定位"仅供安全研究与防御建设"，不收录可直接复用的攻击工具/脚本；涉及灰色的产品拆解必须已脱敏。
@@ -99,7 +100,7 @@
 | 教程 01 | 教程/01-ChatGPT-MCP插件制作教程 | 内部系统接入 ChatGPT：MCP + OAuth 只读插件制作教程 | 7 |
 | 教程 02 | 教程/02-自动化招聘AI智能体拆解与复刻 | 拆解一款自动化招聘 AI 智能体（复刻教程） | 39 |
 | 教程 03 | 教程/03-系统1比1复刻方法论与工具 | 系统 1:1 复刻：方法论与工具（Markdown 文章，无 PDF） | — |
-| 教程 04 | 教程/04-双Agent协作实战教程 | 聪明 Agent 指挥执行 Agent：双 Agent 协作实战教程（图解版 V2.0） | 26 |
+| 教程 04 | 教程/04-双Agent协作实战教程 | 聪明 Agent 指挥执行 Agent：双 Agent 协作实战教程（图解增强版，使用者视角） | 18 |
 | 技能 01 | （已迁至专属仓） | software-decard：软件去卡密自用版 Agent 技能（SKILL.md 加载即用，经白纸实测）——已迁至专属仓 [software-decard（GitHub）](https://github.com/simonsxxs/software-decard) / [Gitee](https://gitee.com/simonsxx/software-decard)，本仓仅保留介绍与链接指引 | — |
 
 > 接管后新增文档请同步更新本表；新增 README 内区块（不占用编号的介绍区块，如配套软件、未公开教程）时，在下文列表中登记一条，并与私有仓实际内容保持同步。

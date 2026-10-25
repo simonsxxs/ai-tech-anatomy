@@ -47,5 +47,6 @@
 **作者：simon，一个不懂代码的 AI 极客**
 
 - 微信交流群：`simonsxxs`
+- 个人网站：https://simonsxx.com
 - GitHub：https://github.com/simonsxxs
 - Gitee：https://gitee.com/simonsxx

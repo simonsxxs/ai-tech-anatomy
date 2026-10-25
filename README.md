@@ -64,14 +64,14 @@
 - 🟢 [在线阅读](./教程/03-系统1比1复刻方法论与工具/README.md) ｜ [GitHub 完整版](https://github.com/simonsxxs/system-1to1-replica) ｜ [Gitee 镜像](https://gitee.com/simonsxx/system-1to1-replica)
 - 🎯 适合：想系统化改造老系统 / 对标竞品 / 做技术迁移的团队，以及对"AI 大工程怎么管质量"好奇的所有人
 
-### 04 · 双 Agent 协作实战教程（26 页）
+### 04 · 双 Agent 协作实战教程（18 页）
 
-**《聪明 Agent 指挥执行 Agent：双 Agent 协作实战教程（图解版 V2.0）》**
+**《聪明 Agent 指挥执行 Agent：双 Agent 协作实战教程（图解增强版）》**
 
-让「聪明的主 Agent」负责规划与审查，让「执行 Agent」负责实施与测试的图解实战教程：三个角色与委派时机、第一次委派五步走、后台任务管理、执行 Prompt 六项内容、全局 AGENTS.md 写法、多会话并行、四级验收与 FAIL 处理循环、权限与费用边界，附主 Agent Prompt、全局 AGENTS.md、TASK.md 与结果 JSON 四大复制区模板。Kimi K3.1 Pro / Codex / Claude 可作指挥层，GLM·ZCode / Codex 可作执行层。案例全部虚构，第一次接触也能按步骤跑通。
+你只提需求，主 Agent 负责派工——写给使用者的双 Agent 协作图解教程：用普通中文说清分工、先讨论方案再动手、分清「方案确认」与「实施批准」、一句批准后由主 Agent 自动编写执行 Prompt 与任务书派工、执行期间继续做其他事、结果回来只问三个问题、不满意直接说哪里不对，最后让主 Agent 把这套分工沉淀进全局 AGENTS.md。附录 A–D 是主 Agent 自动生成的执行 Prompt、独立审查 Prompt、定向返工 Prompt 与全局规则模板，你只需要审核。Kimi K3.1 Pro / Codex / Claude 可作指挥层，GLM·ZCode / Codex 可作执行层。案例均为虚构。
 
 - 🟣 [在线阅读（网页版）](./教程/04-双Agent协作实战教程/PREVIEW.md) ｜ [下载 PDF](./教程/04-双Agent协作实战教程/聪明Agent指挥执行Agent_双Agent协作实战教程.pdf)
-- 🎯 适合：已经在用 AI Agent 但觉得「一个 Agent 又当爹又当妈」不可靠的人；想让主 Agent 派活、执行 Agent 干活、自己只看证据的用户
+- 🎯 适合：不想学 Prompt 写法、只想用普通中文指挥多个 Agent 干活的人；想要「我提需求、主 Agent 派工、我只看结果」工作方式的用户
 
 > 更多教程筹备中。有想看的主题欢迎提 Issue，或加微信群交流。
 
@@ -148,7 +148,7 @@
 - **在用 AI 自动化工具**：读 03，对照十条铁证评估你手里的产品
 - **在用或考虑 AI 招聘工具**：读教程 02，看懂这类工具的真实工作原理、能力边界与合规风险
 - **要改造老系统 / 对标竞品 / 换技术栈**：读教程 03，先看懂方法论，再决定要不要上工具链
-- **想让多个 Agent 分工协作**：读教程 04，先抄附录 A 的主 Agent Prompt，再按教程 02 的五步跑通第一次委派
+- **想让多个 Agent 分工协作**：读教程 04，你只提需求、主 Agent 负责派工，先按 01 的说法讲清分工就能开始
 
 ## ⚠️ 免责声明
 
@@ -161,6 +161,7 @@
 **作者：simon，一个不懂代码的 AI 极客**
 
 - 微信交流群：`simonsxxs`
+- 个人网站：https://simonsxx.com
 - GitHub：https://github.com/simonsxxs
 - Gitee：https://gitee.com/simonsxx
 
