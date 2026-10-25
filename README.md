@@ -68,7 +68,7 @@
 
 **《聪明 Agent 指挥执行 Agent：双 Agent 协作实战教程（图解增强版）》**
 
-你只提需求，主 Agent 负责派工——写给使用者的双 Agent 协作图解教程：用普通中文说清分工、先讨论方案再动手、分清「方案确认」与「实施批准」、一句批准后由主 Agent 自动编写执行 Prompt 与任务书派工、执行期间继续做其他事、结果回来只问三个问题、不满意直接说哪里不对，最后让主 Agent 把这套分工沉淀进全局 AGENTS.md。附录 A–D 是主 Agent 自动生成的执行 Prompt、独立审查 Prompt、定向返工 Prompt 与全局规则模板，你只需要审核。Kimi K3.1 Pro / Codex / Claude 可作指挥层，GLM·ZCode / Codex 可作执行层。案例均为虚构。
+你只提需求，主 Agent 负责派工——写给使用者的双 Agent 协作图解教程：用普通中文说清分工、先讨论方案再动手、分清「方案确认」与「实施批准」、一句批准后由主 Agent 自动编写执行 Prompt 与任务书派工、执行期间继续做其他事、结果回来只问三个问题、不满意直接说哪里不对，最后让主 Agent 把这套分工沉淀进全局 AGENTS.md。附录 A–D 是主 Agent 自动生成的执行 Prompt、独立审查 Prompt、定向返工 Prompt 与全局规则模板，你只需要审核。Kimi K3.1 Pro / Codex / Claude 可作指挥层，DeepSeek / GLM·ZCode / Codex 可作执行层，还可按能力和成本搭配。案例均为虚构。
 
 - 🟣 [在线阅读（网页版）](./教程/04-双Agent协作实战教程/PREVIEW.md) ｜ [下载 PDF](./教程/04-双Agent协作实战教程/聪明Agent指挥执行Agent_双Agent协作实战教程.pdf)
 - 🎯 适合：不想学 Prompt 写法、只想用普通中文指挥多个 Agent 干活的人；想要「我提需求、主 Agent 派工、我只看结果」工作方式的用户

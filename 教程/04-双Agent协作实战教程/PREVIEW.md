@@ -8,7 +8,7 @@
 
 ## 封面
 
-> 图解增强版：你只提需求，主 Agent 负责派工。Kimi K3.1 Pro、Codex、Claude 都可以做指挥层，GLM/ZCode、Codex 等可以做执行层。
+> 图解增强版：你只提需求，主 Agent 负责派工。Kimi K3.1 Pro、Codex、Claude 可作指挥层，DeepSeek、GLM/ZCode、Codex 等可作执行层。
 
 ![封面](pages/page-01.png)
 
@@ -74,7 +74,7 @@
 
 ## 09 换成其他模型，说法不变
 
-> 这套交互方式不依赖「Kimi＋ZCode」组合：指挥层管需求、方案、派工与最终审查，执行层管实施与测试，替换角色名称即可。
+> 这套交互方式不依赖「Kimi＋ZCode」组合，替换角色名称即可，还可以按能力和成本搭配：能力较强的模型负责方案与质量审查，DeepSeek 等成本较低的模型承担规则明确的执行。
 
 ![09 换成其他模型说法不变](pages/page-12.png)
 
