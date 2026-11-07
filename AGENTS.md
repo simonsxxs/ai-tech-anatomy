@@ -97,7 +97,6 @@
 | 报告 01 | 拆解报告/01-ARTEX攻击事件全图解 | AI 攻击事件入侵链路全解：架构、链路与防御（图解版） | 18 |
 | 报告 02 | 拆解报告/02-ARTEX技术拆解 | AI 驱动渗透框架 ARTEX 技术拆解：从架构到暴露（红队技术版） | 23 |
 | 报告 03 | 拆解报告/03-AI控制微信逆向解剖 | AI 是如何控制微信的 · 逆向解剖报告 | 6 |
-| 报告 04 | 拆解报告/04-DSH企业级Agent平台架构解剖 | 从个人 AI 助手到企业级 Agent 平台：基于 DeepSeek Harness 的架构解剖（公开版 v1.0；完整方案私有保存，联系作者了解获取） | 10 |
 | 教程 01 | 教程/01-ChatGPT-MCP插件制作教程 | 内部系统接入 ChatGPT：MCP + OAuth 只读插件制作教程 | 7 |
 | 教程 02 | 教程/02-自动化招聘AI智能体拆解与复刻 | 拆解一款自动化招聘 AI 智能体（复刻教程） | 39 |
 | 教程 03 | 教程/03-系统1比1复刻方法论与工具 | 系统 1:1 复刻：方法论与工具（Markdown 文章，无 PDF） | — |
@@ -109,6 +108,8 @@
 - 配套软件区块：软件 01 招聘自动化智能体 · 自用版（README 内区块，无 PDF 三件套，不占用上表编号）。
 - 未公开教程区块：《软件去卡密完全实战教程》45 页（README 内区块，未占用编号，仅介绍不外发，获取引导指向私有仓并联系署名作者）。
 - 开源技能区块：技能 01 software-decard 软件去卡密自用版技能（链接指引区块：技能本体在专属仓 software-decard——[GitHub](https://github.com/simonsxxs/software-decard) / [Gitee](https://gitee.com/simonsxx/software-decard) 双平台并列，本仓不存副本）。
+
+- 未公开方案区块：《基于 DeepSeek Harness 的企业级 Agent 平台部署方案》（完整蓝图 v2.0：23 章 / 21 图 / 58 页；试点计划 v1.1：10 页；组件契约 v1.1：9 页）。正文保存在独立私有仓 dsh-enterprise-agent-blueprint（[GitHub](https://github.com/simonsxxs/dsh-enterprise-agent-blueprint) / [Gitee](https://gitee.com/simonsxx/dsh-enterprise-agent-blueprint)）；公开仓仅保留简介和联系 simon（微信 `simonsxxs`）获取指引，不占用拆解报告编号。
 
 ## 八、当前维护环境（仅供参考，可能随接管环境变化）
 
